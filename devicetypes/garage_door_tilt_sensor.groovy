@@ -6,7 +6,7 @@
  */
 
 metadata {
-	definition (name: "Garage Door - Tilt Sensor", namespace: "hbaxi", author: "hbaxi") {
+	definition (name: "Garage Door - Tilt Sensor", namespace: "hbaxi", author: "SmartThings Community") {
 		capability "Contact Sensor"
 		capability "Sensor"
 		capability "Battery"
